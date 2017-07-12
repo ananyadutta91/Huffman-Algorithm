@@ -1,0 +1,5 @@
+hi how are you hi
+product/productId: B005ZBZLSU
+review/userId: A2GIT4PVESZAPG
+review/profileName: S. Struthers "UK2USA"
+review/helpfulness: 0/0.

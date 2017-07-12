@@ -1,0 +1,10 @@
+hi how are you hi
+product/productId: B005ZBZLSU
+review/userId: A2GIT4PVESZAPG
+review/profileName: S. Struthers "UK2USA"
+review/helpfulness 0/0
+review/score
+
+
+review/text: Delicious rich French Roasted coffee in 8-kcup vacuum-sealed bags. The kcup is mesh rather than plastic so the water is not funneled through a small hole but throughout the coffee, making for a much more robust taste. The price is reasonable, too. If you're a Caribou fan, you'll love this coffee -- and it's cheaper!
+
